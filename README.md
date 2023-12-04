@@ -5,9 +5,9 @@
 > - *Big Bang Theory* 💥
 > - *Family Guy* 👨‍👩‍👧‍👦
 
-##**Favorite Song(With the artist/band name)**
+###**Favorite Song(With the artist/band name)**
 
-| Song Title                         | Artist/Band       |
+| **Song Title**                     | **Artist/Band**   |
 | ---------------------------------- | ----------------- |
 | Ashes Of Eden                      | Breaking Benjamin |
 | Never Loose Your Flames            | Issues            |
